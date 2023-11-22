@@ -154,15 +154,15 @@
 |R|1-3-5-7-9-12-14-16-18-19-21-23-25-27-30-32-34-36|1|Red|
 |B|2-4-6-8-10-11-13-15-17-20-22-24-26-28-29-31-33-35|1|Black|
 |Top|0-00-1-2-3|6|Topline|
+|SpH0|0-00|17|Split Horizontal 0/00|
 |SpV01|0-1|17|Split Vertical 0/1|
-|St0|0-1-2|11|Trio 0 (Street)|
 |SpV02|0-2|17|Split Vertical 0/2|
-|Bas|0-00-2|11|Basket 0/00/2|
 |SpV002|00-2|17|Split Vertical 00/2|
 |SpV003|00-3|17|Split Vertical 00/3|
-|SpH0|0-00|17|Split Horizontal 0/00|
+|Bas|0-00-2|11|Basket 0/00/2|
+|St0|0-1-2|11|Trio 0 (Street)|
+|St00|00-2-3|11|Trio 00/2/3 (Street)|
 |000|000|35|straight|
 |SpV0000|0-000|17|Split 0/000|
 |SpV00000|00-000|17|Split Vertical 00/000|
-|St00|00-2-3|11|Trio 00/2/3 (Street)|
 |Uni|🐎|35|Unicorn Bet 🙂|
