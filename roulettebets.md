@@ -38,7 +38,6 @@
 |36|36|35|straight|
 |0|0|35|straight|
 |00|00|35|straight|
-|000|000|35|straight|
 |SpH1|1-2|17|split horizontal|
 |SpH2|2-3|17|split horizontal|
 |SpH4|4-5|17|split horizontal|
@@ -162,6 +161,7 @@
 |SpV002|00-2|17|Split Vertical 00/2|
 |SpV003|00-3|17|Split Vertical 00/3|
 |SpH0|0-00|17|Split Horizontal 0/00|
+|000|000|35|straight|
 |SpV0000|0-000|17|Split 0/000|
 |SpV00000|00-000|17|Split Vertical 00/000|
 |St00|00-2-3|11|Trio 00/2/3 (Street)|
