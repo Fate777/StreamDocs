@@ -165,3 +165,4 @@
 |SpV0000|0-000|17|Split 0/000|
 |SpV00000|00-000|17|Split Vertical 00/000|
 |St00|00-2-3|11|Trio 00/2/3 (Street)|
+|Uni|🐎|35|Unicorn Bet 🙂|
